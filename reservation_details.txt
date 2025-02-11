@@ -1,0 +1,3 @@
+Booking for vizag was done on 10 Jan 2024
+And return was booked for 12 Jan 2024
+Total fare was 2000
